@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/Logo.svg" />
     <h2>Happy</h2>
 </h1>
 
